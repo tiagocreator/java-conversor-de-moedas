@@ -3,8 +3,6 @@ package enums;
 import java.math.BigDecimal;
 
 public enum Moeda {
-	
-	// cotações em 28/09/2022
 	DOLAR(BigDecimal.valueOf(5.35)),
 	EURO(BigDecimal.valueOf(5.13)),
 	LIBRA_ESTERLINA(BigDecimal.valueOf(5.72)),
